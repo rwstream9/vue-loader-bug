@@ -1,0 +1,17 @@
+{
+  "name": "vue-loader-test",
+  "version": "1.0.0",
+  "author": "Ryan Williams",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "vue": "^2.1.10",
+    "vue-template-compiler": "^2.5.9"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "vue-loader": "^14.2.2",
+    "webpack": "^4.17.1",
+    "webpack-build-notifier": "^0.1.8",
+    "webpack-command": "^0.4.1"
+  }
+}
